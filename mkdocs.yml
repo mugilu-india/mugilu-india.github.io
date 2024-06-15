@@ -1,7 +1,7 @@
 site_name: Mugilu™
 site_url: https://www.mugilu.in
 site_author: Mugilu™
-site_description: Mugilu™ Website
+site_description: An end-to-end cloud compute management platform.
 theme:
   name: material
   language: en
